@@ -15,9 +15,21 @@
 }
 
 #bg-banner {
-background-image: url(/imgs/fordcommercial2.gif);
+background-image: url(/imgs/fordcommercial1.gif);
 margin-top: 0px;
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
+}
+
+h3 {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#infotxt {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
